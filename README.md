@@ -38,4 +38,4 @@ in Powershell:
    Send a request to http://localhost:5000/predict_new, copy the text from 'json example.txt' into the postman request, as seen in the screenshot below.
 
 
-![Postman_screenshot.png](Postman_screenshot.png)
+![Postman_screenshot.png](Postman_screenshot.PNG)

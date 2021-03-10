@@ -1,4 +1,6 @@
-# XGBoost model for classification on the Pendigits dataset. Source: Dua, D. and Graff, C. (2019). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of Information and Computer Science.
+# XGBoost model for classification on the Pen-Based Recognition of Handwritten Digits Data Set. 
+Author: E. Alpaydin, Fevzi. Alimoglu
+Source: [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Pen-Based+Recognition+of+Handwritten+Digits) - 1998-07-01
 
 Xgboost implements **gradient boosted decision tree**. Details:https://xgboost.readthedocs.io/en/latest/.
 For more details on the model training and evaluation, please refer to the IPYNB file.

@@ -1,0 +1,1 @@
+?input1=100&input10=7&input11=80&input12=0&input13=80&input14=24&input15=26&input16=26&input2=100&input3=46&input4=89&input5=13&input6=64&input7=0&input8=34&input9=25
